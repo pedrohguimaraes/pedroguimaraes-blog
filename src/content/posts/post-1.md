@@ -1,6 +1,6 @@
 ---
 title: "#1 Prólogo"
-description: "meta description"
+description: "Olá, leitor. Espero que esteja tudo bem contigo."
 date: 2024-11-30T05:00:00Z
 image: "/images/posts/post-01.jpg"
 # categories: ['']
