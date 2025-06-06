@@ -7,17 +7,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@layer base {
-  @use "base";
-}
-
-@layer components {
-  @use "components";
-  @use "navigation";
-  @use "buttons";
-}
-
-@layer utilities {
-  @use "utilities";
-}
